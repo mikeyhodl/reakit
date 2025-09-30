@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@emotion/core": "10.0.35",
-    "@types/lodash": "4.14.166",
+    "@types/lodash": "4.17.20",
     "@types/qs": "6.9.5",
     "@types/react-helmet": "6.1.0",
     "@types/yup": "0.29.11",
@@ -42,7 +42,7 @@
     "gatsby-transformer-remark": "2.13.1",
     "gatsby-transformer-sharp": "2.9.0",
     "gatsby-transformer-yaml": "2.8.0",
-    "lodash": "4.17.20",
+    "lodash": "4.17.21",
     "mdast-util-to-string": "1.1.0",
     "prop-types": "15.7.2",
     "qs": "6.9.4",
